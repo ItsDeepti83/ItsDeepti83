@@ -17,7 +17,7 @@ Tech excites me — challenges keep me going.
 ✉️ Email: Deeptisabat9@gmail.com
 
 🧩 Tech Stack
-C/C++ • Python/django • HTML/CSS • Git • Streamlit • IBM Watsonx  
+C/C++ • Python/django/pandas • HTML/CSS • Git • Streamlit ,ML AI, • IBM Watsonx  
 
 
 
