@@ -2,9 +2,7 @@
 🔋 Operating on low energy but high impact.
 🧐 Silently judging your workflow while avoiding mine.
 📅 Deadline’s tomorrow? Perfect. That’s when I shine.
-Caught you lurking.
-obsession looks a lot like admiration. 💅
-Don’t worry — most legends go uncredited. 😉
+
 
 
 🎯 Driven by purpose, not pressure.
