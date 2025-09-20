@@ -26,5 +26,4 @@ C/C++ • Python/django/pandas • HTML/CSS • Git • Streamlit ,ML AI, • IB
 
 
 
-Oh wow, still here? Must be hard not being me.😉
-If you're this interested in my profile, just say hi already.
+Oh wow, still here? WHY?
