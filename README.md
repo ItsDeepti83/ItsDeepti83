@@ -20,7 +20,7 @@
 - 🔭 Currently working on **Agentic AI** projects
 - 🌱 Exploring **LLMs** and **Cloud-native architectures**
 - 💬 Open to opportunities in **Data Science · ML Engineering · AI Development**
-- 📫 Reach me at [linkedin.com/in/deeptisabat](https://linkedin.com/in/deeptisabat)
+- 📫 Reach me at - Deeptisabat9@gmail.com
 
 ---
 
